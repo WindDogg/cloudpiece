@@ -17,7 +17,7 @@ public class TestThread {
                 }
             }
         };
-        t1.setPriority(Thread.MAX_PRIORITY);
+
         //守护线程
         t1.setDaemon(true);
         t1.start();
