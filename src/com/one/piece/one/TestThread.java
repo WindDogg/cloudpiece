@@ -1,4 +1,4 @@
-package com.one.piece;
+package com.one.piece.one;
 
 /**
  * 实现多线程的三种方式

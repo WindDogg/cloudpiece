@@ -1,6 +1,4 @@
-package com.one.piece;
-
-import java.io.Serializable;
+package com.one.piece.one;
 
 public class Hero{
     public String name;

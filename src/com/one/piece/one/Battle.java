@@ -1,4 +1,4 @@
-package com.one.piece;
+package com.one.piece.one;
 
 public class Battle implements Runnable{
 

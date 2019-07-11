@@ -1,4 +1,4 @@
-package com.one.piece;
+package com.one.piece.one;
 
 public class KillThread extends Thread{
     private Hero hero_one;
